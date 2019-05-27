@@ -1,1 +1,14 @@
+*.iml
+.idea/
+target/
+Logs/
+bin/
+*.class
+
+# Eclipse project files
 /target/
+.classpath
+.project
+.DS_Store
+.settings
+*.MF
